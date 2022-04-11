@@ -1,0 +1,21 @@
+@import url(login.css);
+@import url(modal.css);
+
+/* Reset  */
+
+* {
+  font-family: "Spoqa Han Sans Neo", "sans-serif";
+}
+
+body,
+button,
+section,
+a,
+div {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
